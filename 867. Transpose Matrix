@@ -1,0 +1,15 @@
+//867. Transpose Matrix
+class Solution {
+    public int[][] transpose(int[][] matrix) {
+        int rows = matrix.length;
+        int cols = matrix[0].length;
+        int[][] res = new int[cols][rows];
+        int i, j;
+        for (i = 0; i < rows; i++) {
+            for (j = 0; j < cols; j++) {
+                res[j][i] = matrix[i][j];
+            }
+        }
+        return res;
+    }
+}
