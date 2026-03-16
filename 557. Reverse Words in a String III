@@ -1,0 +1,27 @@
+//557. Reverse Words in a String III
+class Solution {
+public:
+    string reverseWords(string s) {
+        int i = 0;
+        int j = 0;
+        while (i < s.size()) {
+            int j = i;
+            while (j < s.size() && s[j] != ' ') {
+                j++;
+            }
+
+            int k = i;
+            int l = j - 1;
+            while (k < l) {
+                char temp = s[l];
+                s[l] = s[k];
+                s[k] = temp;
+                k++;
+                l--;
+            }
+
+            i = j + 1;
+        }
+        return s;
+    }
+};
