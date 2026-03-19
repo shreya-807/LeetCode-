@@ -1,0 +1,45 @@
+//1. Two Sum
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        vector<int> res;
+        int start = 0;
+        int end = nums.size() - 1;
+        while (1) {
+            if (nums[start] + nums[end] == target) {
+                res.push_back(start);
+                res.push_back(end);
+                return res;
+            }
+
+            if (nums[start] + nums[end] < target)
+                start++;
+            else {
+                end--;
+            }
+        }
+        return res;
+    }
+};
+
+
+
+//JAVA-
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        HashMap<Integer, Integer> map = new HashMap<>();
+        
+        for (int i = 0; i < nums.length; i++) {
+            int complement = target - nums[i];
+            
+            if (map.containsKey(complement)) {
+                return new int[] { map.get(complement), i };
+            }
+            
+            map.put(nums[i], i);
+        }
+        
+        
+        return new int[] {};
+    }
+}
