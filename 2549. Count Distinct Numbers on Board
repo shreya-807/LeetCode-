@@ -1,0 +1,16 @@
+//2549. Count Distinct Numbers on Board
+class Solution {
+    public int distinctIntegers(int n) {
+        Set<Integer> ans = new HashSet<>();
+        while (n != 0) {
+            for (int i = 1; i <= n; i++) {
+                if (n % i == 1)
+                    ans.add(i);
+            }
+            n--;
+        }
+        int res;
+        res = ans.size() + 1;
+        return res;
+    }
+}
