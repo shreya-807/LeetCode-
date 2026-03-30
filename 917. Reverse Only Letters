@@ -3,7 +3,6 @@ class Solution {
         int i = 0;
         int j = s.length() - 1;
         char[] charArray = s.toCharArray();
-
         while (i < j) {
 
             if (!Character.isLetter(charArray[i])) {
