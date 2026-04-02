@@ -1,4 +1,6 @@
 //867. Transpose Matrix
+//transpose is to interchange rows and column 
+//means the elements in row must be in column in traanspose and similarly, column elements must be row element.
 class Solution {
     public int[][] transpose(int[][] matrix) {
         int rows = matrix.length;
