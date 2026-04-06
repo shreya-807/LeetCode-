@@ -1,6 +1,6 @@
 # 🌟 Easy LeetCode Solutions in Java & C++
 
-Welcome to my repository of **easy-to-understand solutions** for popular LeetCode problems.  
+Welcome to my repository of **easy-to-understand solutions** for LeetCode problems.  
 This repo is designed to help learners, interview-prep candidates, and developers quickly grasp problem-solving techniques with **clean code** in both **Java** and **C++**.
 
 ---
