@@ -1,0 +1,36 @@
+//18. 4Sum
+import java.util.*;
+
+class Solution {
+    public List<List<Integer>> fourSum(int[] nums, int target) {
+        
+        HashSet<List<Integer>> set = new HashSet<>();
+        Arrays.sort(nums);
+        
+        int n = nums.length;
+
+        for (int i = 0; i < n - 3; i++) {
+            for (int k = i + 1; k < n - 2; k++) {
+                int start = k + 1;
+                int end = n - 1;
+                
+                while (start < end) {
+                     long sum = (long)nums[i] + (long)nums[k] + (long)nums[start] + (long)nums[end];
+                    
+                    if (sum == target) {
+                        set.add(Arrays.asList(nums[i], nums[k], nums[start], nums[end]));
+                        start++;
+                        end--;
+                    } else if (sum < target) {
+                        start++;
+                    } else {
+                        end--;
+                    }
+                }
+            }
+        }
+        
+      
+        return new ArrayList<>(set);
+    }
+}
