@@ -1,0 +1,37 @@
+//500. Keyboard Row
+class Solution {
+public:
+    vector<string> findWords(vector<string>& words) {
+        vector<string> res;
+        for (int i = 0; i < words.size(); i++) {
+            bool row1 = false, row2 = false, row3 = false;
+
+            for (int j = 0; j < words[i].size(); j++) {
+                char c = words[i][j];
+                if (c == 'Q' || c == 'q' || c == 'W' || c == 'w' || c == 'E' ||
+                    c == 'e' || c == 'R' || c == 'r' || c == 'T' || c == 't' ||
+                    c == 'Y' || c == 'y' || c == 'U' || c == 'u' || c == 'I' ||
+                    c == 'i' || c == 'O' || c == 'o' || c == 'P' || c == 'p') {
+                    row1 = true;
+                } else if (c == 'A' || c == 'a' || c == 'S' || c == 's' ||
+                           c == 'D' || c == 'd' || c == 'F' || c == 'f' ||
+                           c == 'G' || c == 'g' || c == 'H' || c == 'h' ||
+                           c == 'J' || c == 'j' || c == 'K' || c == 'k' ||
+                           c == 'L' || c == 'l') {
+                    row2 = true;
+                } else if (c == 'Z' || c == 'z' || c == 'X' || c == 'x' ||
+                           c == 'C' || c == 'c' || c == 'V' || c == 'v' ||
+                           c == 'B' || c == 'b' || c == 'N' || c == 'n' ||
+                           c == 'M' || c == 'm') {
+                    row3 = true;
+                }
+            }
+
+           if ((row1 + row2 + row3) == 1) {
+    res.push_back(words[i]);
+}
+
+        }
+        return res;
+    }
+};
