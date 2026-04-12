@@ -1,0 +1,19 @@
+//387. First Unique Character in a String
+int firstUniqChar(char* s) {
+    int i, j;
+    int len = strlen(s);
+
+    for (i = 0; i < len; i++) {
+        int isUnique = 1;
+        for (j = 0; j < len; j++) {
+            if (i != j && s[i] == s[j]) {
+                isUnique = 0;
+                break;
+            }
+        }
+        if (isUnique) {
+            return i;
+        }
+    }
+    return -1;
+}
