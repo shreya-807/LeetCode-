@@ -1,0 +1,19 @@
+//852. Peak Index in a Mountain Array
+class Solution {
+public:
+    int peakIndexInMountainArray(vector<int>& arr) {
+        int i;
+        int mid;
+        mid = arr.size() / 2;
+        while (1) {
+            if (arr[mid] > arr[mid + 1] && arr[mid] > arr[mid - 1]) {
+                return mid;;
+            }
+            if (arr[mid] < arr[mid + 1])
+                mid = mid + 1;
+            else {
+                mid = mid - 1;
+            }
+        }
+    }
+};
