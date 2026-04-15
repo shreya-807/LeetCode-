@@ -1,0 +1,38 @@
+//2515. Shortest Distance to Target String in a Circular Array
+class Solution {
+    public int closestTarget(String[] words, String target, int startIndex) {
+        int n = words.length;
+        int minDist = Integer.MAX_VALUE;
+        boolean found = false;
+
+      
+        for (int i = startIndex; i < n; i++) {
+            if (words[i].equals(target)) {
+                found = true;
+                int dist = i - startIndex; 
+                minDist = Math.min(minDist, dist);
+            }
+        }
+
+        
+        for (int j = startIndex; j >= 0; j--) {
+            if (words[j].equals(target)) {
+                found = true;
+                int dist = startIndex - j; 
+                minDist = Math.min(minDist, dist);
+            }
+        }
+
+      
+        for (int k = 0; k < n; k++) {
+            if (words[k].equals(target)) {
+                found = true;
+                int dist = Math.abs(k - startIndex);
+                dist = Math.min(dist, n - dist); 
+                minDist = Math.min(minDist, dist);
+            }
+        }
+
+        return found ? minDist : -1;
+    }
+}
