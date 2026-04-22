@@ -1,0 +1,21 @@
+//2148. Count Elements With Strictly Smaller and Greater Elements 
+class Solution {
+    public int countElements(int[] nums) {
+
+       int small = Integer.MAX_VALUE;
+        int largest = Integer.MIN_VALUE;
+        int count = 0;
+        
+        for (int i = 0; i < nums.length; i++) {
+            small = Math.min(small, nums[i]);
+            largest = Math.max(largest, nums[i]);
+        }
+       
+
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] > small && nums[i] < largest)
+                count++;
+        }
+        return count;
+    }
+}
