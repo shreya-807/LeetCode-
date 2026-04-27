@@ -1,0 +1,21 @@
+//3842. Toggle Light Bulbs
+class Solution {
+    public List<Integer> toggleLightBulbs(List<Integer> bulbs) {
+        Collections.sort(bulbs); 
+        ArrayList<Integer> res = new ArrayList<>();
+        
+        int count = 1; 
+        for (int i = 1; i <= bulbs.size(); i++) {
+            if (i < bulbs.size() && bulbs.get(i) == bulbs.get(i - 1)) {
+                count++; 
+            } else {
+                
+                if (count % 2 != 0) {
+                    res.add(bulbs.get(i - 1));
+                }
+                count = 1; 
+            }
+        }
+        return res;
+    }
+}
