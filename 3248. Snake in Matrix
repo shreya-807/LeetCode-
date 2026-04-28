@@ -1,0 +1,26 @@
+//3248. Snake in Matrix
+class Solution {
+    public int finalPositionOfSnake(int n, List<String> com) {
+        // int[][] mat = new int[n][n];
+        // int num = -1;
+        // for (int i = 0; i < n; i++) {
+        //     for (int j = 0; j < n; j++) {
+        //         num++;
+        //         mat[i][j] = num;
+        //     }
+        // }
+        int r = 0;
+        int c = 0;
+        for (int i = 0; i < com.size(); i++) {
+            if (com.get(i).equals("UP"))
+                r--;
+            if (com.get(i).equals("DOWN"))
+                r++;
+            if (com.get(i).equals("RIGHT"))
+                c++;
+            if (com.get(i).equals("LEFT"))
+                c--;
+        }
+        return (r * n) + c;
+    }
+}
