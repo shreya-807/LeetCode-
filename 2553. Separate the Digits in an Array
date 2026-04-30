@@ -1,0 +1,20 @@
+//2553. Separate the Digits in an Array
+class Solution {
+    public int[] separateDigits(int[] nums) {
+        ArrayList<Integer> res = new ArrayList<>();
+        for (int i = nums.length - 1; i >= 0; i--) {
+            while (nums[i] != 0) {
+                int d = nums[i] % 10;
+                res.add(d);
+                nums[i] /= 10;
+            }
+        }
+        Collections.reverse(res);
+        int[] intArray = new int[res.size()];
+
+        for (int i = 0; i < res.size(); i++) {
+            intArray[i] = res.get(i);
+        }
+        return intArray;
+    }
+}
