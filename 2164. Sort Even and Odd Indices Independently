@@ -1,0 +1,41 @@
+//2164. Sort Even and Odd Indices Independently
+class Solution {
+    public int[] sortEvenOdd(int[] nums) {
+        int i = 0;
+        int j = 1;
+        ArrayList<Integer> o=new ArrayList<>();
+         ArrayList<Integer> e=new ArrayList<>();
+        int[] res = new int[nums.length];
+        
+        for (i = 0; i < nums.length; i++) {
+            if (i % 2 == 0)
+                e.add(nums[i]);
+            else
+                o.add(nums[i]);
+        }
+    
+        Integer[] odd = o.toArray(new Integer[0]);
+        Integer[] even = e.toArray(new Integer[0]);
+        Arrays.sort(odd);
+        Arrays.sort(even);
+         // reverse manually
+        for ( i = 0; i < odd.length / 2; i++) {
+            int temp = odd[i];
+            odd[i] = odd[odd.length - 1 - i];
+            odd[odd.length - 1 - i] = temp;
+        }
+        
+        int ei = 0, oi = 0;
+        for (int k = 0; k < nums.length; k++) {
+            if (k % 2 == 0) {
+                res[k] = even[ei++];
+            } else {
+                res[k] = odd[oi++];
+            }
+        }
+
+        return res;
+
+        
+    }
+}
