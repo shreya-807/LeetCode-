@@ -1,0 +1,20 @@
+//2784. Check if Array is Good
+class Solution {
+    public boolean isGood(int[] nums) {
+        Arrays.sort(nums);
+        int max = 0;
+        for (int i = 0; i < nums.length; i++) {
+            max = Math.max(max, nums[i]);
+        }
+
+        if (nums.length < max + 1) {
+            return false;
+        }
+
+        for (int i = 0; i < nums.length - 1; i++) {
+            if (nums[i] != i + 1)
+                return false;
+        }
+        return true;
+    }
+}
