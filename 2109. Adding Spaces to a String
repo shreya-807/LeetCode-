@@ -1,0 +1,20 @@
+//2109. Adding Spaces to a String
+
+class Solution {
+    public String addSpaces(String s, int[] spaces) {
+        ArrayList<String> list = new ArrayList<>();
+        int j = 0;
+        
+        for (int i = 0; i < s.length(); i++) {
+           
+            if (j < spaces.length && i == spaces[j]) {
+                list.add(" ");
+                j++;
+            }
+             list.add(String.valueOf(s.charAt(i)));
+        }
+        
+       
+        return String.join("", list);
+    }
+}
