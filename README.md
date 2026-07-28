@@ -56,4 +56,12 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shreya-807/LeetCode-/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/shreya-807/LeetCode-/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/shreya-807/LeetCode-/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
