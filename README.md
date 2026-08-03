@@ -33,6 +33,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/shreya-807/LeetCode-/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/shreya-807/LeetCode-/tree/master/0020-valid-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreya-807/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
