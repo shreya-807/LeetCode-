@@ -45,6 +45,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shreya-807/LeetCode-/tree/master/0054-spiral-matrix) |
 | [0217-contains-duplicate](https://github.com/shreya-807/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreya-807/LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shreya-807/LeetCode-/tree/master/0287-find-the-duplicate-number) |
@@ -93,6 +94,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shreya-807/LeetCode-/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreya-807/LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/shreya-807/LeetCode-/tree/master/0766-toeplitz-matrix) |
 ## Two Pointers
@@ -103,4 +105,8 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shreya-807/LeetCode-/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/shreya-807/LeetCode-/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
