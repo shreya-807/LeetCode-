@@ -72,6 +72,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shreya-807/LeetCode-/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/shreya-807/LeetCode-/tree/master/0258-add-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreya-807/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shreya-807/LeetCode-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
@@ -110,8 +111,13 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shreya-807/LeetCode-/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/shreya-807/LeetCode-/tree/master/0258-add-digits) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shreya-807/LeetCode-/tree/master/3345-smallest-divisible-digit-product-i) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shreya-807/LeetCode-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
