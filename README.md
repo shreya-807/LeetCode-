@@ -49,6 +49,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0217-contains-duplicate](https://github.com/shreya-807/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreya-807/LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shreya-807/LeetCode-/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/shreya-807/LeetCode-/tree/master/0455-assign-cookies) |
 | [0766-toeplitz-matrix](https://github.com/shreya-807/LeetCode-/tree/master/0766-toeplitz-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreya-807/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/shreya-807/LeetCode-/tree/master/3731-find-missing-elements) |
@@ -56,6 +57,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shreya-807/LeetCode-/tree/master/0217-contains-duplicate) |
+| [0455-assign-cookies](https://github.com/shreya-807/LeetCode-/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreya-807/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/shreya-807/LeetCode-/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -83,6 +85,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/shreya-807/LeetCode-/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/shreya-807/LeetCode-/tree/master/0455-assign-cookies) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreya-807/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
 |  |
@@ -103,6 +106,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shreya-807/LeetCode-/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/shreya-807/LeetCode-/tree/master/0455-assign-cookies) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -120,4 +124,8 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shreya-807/LeetCode-/tree/master/0258-add-digits) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/shreya-807/LeetCode-/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
