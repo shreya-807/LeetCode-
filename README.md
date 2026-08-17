@@ -110,6 +110,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/shreya-807/LeetCode-/tree/master/0086-partition-list) |
 | [0287-find-the-duplicate-number](https://github.com/shreya-807/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/shreya-807/LeetCode-/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/shreya-807/LeetCode-/tree/master/0844-backspace-string-compare) |
@@ -136,4 +137,8 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/shreya-807/LeetCode-/tree/master/0455-assign-cookies) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/shreya-807/LeetCode-/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
