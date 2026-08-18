@@ -38,6 +38,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0058-length-of-last-word](https://github.com/shreya-807/LeetCode-/tree/master/0058-length-of-last-word) |
 | [0409-longest-palindrome](https://github.com/shreya-807/LeetCode-/tree/master/0409-longest-palindrome) |
 | [0844-backspace-string-compare](https://github.com/shreya-807/LeetCode-/tree/master/0844-backspace-string-compare) |
+| [0925-long-pressed-name](https://github.com/shreya-807/LeetCode-/tree/master/0925-long-pressed-name) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreya-807/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
@@ -114,6 +115,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0287-find-the-duplicate-number](https://github.com/shreya-807/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/shreya-807/LeetCode-/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/shreya-807/LeetCode-/tree/master/0844-backspace-string-compare) |
+| [0925-long-pressed-name](https://github.com/shreya-807/LeetCode-/tree/master/0925-long-pressed-name) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shreya-807/LeetCode-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Bit Manipulation
 |  |
