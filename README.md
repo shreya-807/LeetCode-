@@ -36,6 +36,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0008-string-to-integer-atoi](https://github.com/shreya-807/LeetCode-/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/shreya-807/LeetCode-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shreya-807/LeetCode-/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/shreya-807/LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0409-longest-palindrome](https://github.com/shreya-807/LeetCode-/tree/master/0409-longest-palindrome) |
 | [0844-backspace-string-compare](https://github.com/shreya-807/LeetCode-/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/shreya-807/LeetCode-/tree/master/0925-long-pressed-name) |
@@ -113,6 +114,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/shreya-807/LeetCode-/tree/master/0086-partition-list) |
+| [0151-reverse-words-in-a-string](https://github.com/shreya-807/LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/shreya-807/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/shreya-807/LeetCode-/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/shreya-807/LeetCode-/tree/master/0844-backspace-string-compare) |
