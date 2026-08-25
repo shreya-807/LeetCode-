@@ -16,11 +16,13 @@ class Solution {
                     res[i] = nums2[k];
                     break;
                 }
-                if(k==nums2.length-1)
-                res[i]=-1;
-            }i++;
+                if (k == nums2.length - 1)
+                    res[i] = -1;
+            }
+            i++;
 
-        }return res;
+        }
+        return res;
 
     }
 }
