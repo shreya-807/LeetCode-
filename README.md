@@ -47,6 +47,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shreya-807/LeetCode-/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/shreya-807/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/shreya-807/LeetCode-/tree/master/0844-backspace-string-compare) |
 ## Array
 |  |
@@ -56,6 +57,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0240-search-a-2d-matrix-ii](https://github.com/shreya-807/LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shreya-807/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/shreya-807/LeetCode-/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/shreya-807/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0766-toeplitz-matrix](https://github.com/shreya-807/LeetCode-/tree/master/0766-toeplitz-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreya-807/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shreya-807/LeetCode-/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -77,6 +79,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | ------- |
 | [0217-contains-duplicate](https://github.com/shreya-807/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/shreya-807/LeetCode-/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/shreya-807/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [3731-find-missing-elements](https://github.com/shreya-807/LeetCode-/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -154,4 +157,8 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shreya-807/LeetCode-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/shreya-807/LeetCode-/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
