@@ -59,6 +59,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0455-assign-cookies](https://github.com/shreya-807/LeetCode-/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/shreya-807/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0766-toeplitz-matrix](https://github.com/shreya-807/LeetCode-/tree/master/0766-toeplitz-matrix) |
+| [1046-last-stone-weight](https://github.com/shreya-807/LeetCode-/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreya-807/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shreya-807/LeetCode-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3731-find-missing-elements](https://github.com/shreya-807/LeetCode-/tree/master/3731-find-missing-elements) |
@@ -73,6 +74,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/shreya-807/LeetCode-/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreya-807/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
