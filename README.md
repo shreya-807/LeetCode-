@@ -157,6 +157,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/shreya-807/LeetCode-/tree/master/0086-partition-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shreya-807/LeetCode-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## String Matching
 |  |
 | ------- |
