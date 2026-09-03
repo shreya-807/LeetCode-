@@ -67,6 +67,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shreya-807/LeetCode-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3731-find-missing-elements](https://github.com/shreya-807/LeetCode-/tree/master/3731-find-missing-elements) |
 | [3833-count-dominant-indices](https://github.com/shreya-807/LeetCode-/tree/master/3833-count-dominant-indices) |
+| [3861-minimum-capacity-box](https://github.com/shreya-807/LeetCode-/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shreya-807/LeetCode-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
