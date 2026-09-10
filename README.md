@@ -149,6 +149,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shreya-807/LeetCode-/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/shreya-807/LeetCode-/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -182,4 +183,8 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shreya-807/LeetCode-/tree/master/0496-next-greater-element-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/shreya-807/LeetCode-/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
