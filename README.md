@@ -65,6 +65,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0766-toeplitz-matrix](https://github.com/shreya-807/LeetCode-/tree/master/0766-toeplitz-matrix) |
 | [0806-number-of-lines-to-write-string](https://github.com/shreya-807/LeetCode-/tree/master/0806-number-of-lines-to-write-string) |
 | [1046-last-stone-weight](https://github.com/shreya-807/LeetCode-/tree/master/1046-last-stone-weight) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shreya-807/LeetCode-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreya-807/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shreya-807/LeetCode-/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shreya-807/LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -101,6 +102,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | ------- |
 | [0050-powx-n](https://github.com/shreya-807/LeetCode-/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/shreya-807/LeetCode-/tree/master/0258-add-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shreya-807/LeetCode-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreya-807/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shreya-807/LeetCode-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shreya-807/LeetCode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
