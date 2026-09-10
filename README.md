@@ -71,6 +71,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [2185-counting-words-with-a-given-prefix](https://github.com/shreya-807/LeetCode-/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/shreya-807/LeetCode-/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shreya-807/LeetCode-/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/shreya-807/LeetCode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3731-find-missing-elements](https://github.com/shreya-807/LeetCode-/tree/master/3731-find-missing-elements) |
 | [3833-count-dominant-indices](https://github.com/shreya-807/LeetCode-/tree/master/3833-count-dominant-indices) |
 | [3861-minimum-capacity-box](https://github.com/shreya-807/LeetCode-/tree/master/3861-minimum-capacity-box) |
@@ -150,6 +151,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shreya-807/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/shreya-807/LeetCode-/tree/master/0338-counting-bits) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/shreya-807/LeetCode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Simulation
 |  |
 | ------- |
