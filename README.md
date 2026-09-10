@@ -43,6 +43,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0925-long-pressed-name](https://github.com/shreya-807/LeetCode-/tree/master/0925-long-pressed-name) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shreya-807/LeetCode-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/shreya-807/LeetCode-/tree/master/1768-merge-strings-alternately) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/shreya-807/LeetCode-/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreya-807/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
@@ -64,6 +65,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [1046-last-stone-weight](https://github.com/shreya-807/LeetCode-/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreya-807/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shreya-807/LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/shreya-807/LeetCode-/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shreya-807/LeetCode-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3731-find-missing-elements](https://github.com/shreya-807/LeetCode-/tree/master/3731-find-missing-elements) |
 | [3833-count-dominant-indices](https://github.com/shreya-807/LeetCode-/tree/master/3833-count-dominant-indices) |
@@ -170,6 +172,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shreya-807/LeetCode-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/shreya-807/LeetCode-/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Monotonic Stack
 |  |
 | ------- |
