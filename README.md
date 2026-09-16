@@ -67,6 +67,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0806-number-of-lines-to-write-string](https://github.com/shreya-807/LeetCode-/tree/master/0806-number-of-lines-to-write-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/shreya-807/LeetCode-/tree/master/0944-delete-columns-to-make-sorted) |
 | [1046-last-stone-weight](https://github.com/shreya-807/LeetCode-/tree/master/1046-last-stone-weight) |
+| [1260-shift-2d-grid](https://github.com/shreya-807/LeetCode-/tree/master/1260-shift-2d-grid) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shreya-807/LeetCode-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreya-807/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shreya-807/LeetCode-/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -138,6 +139,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0054-spiral-matrix](https://github.com/shreya-807/LeetCode-/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreya-807/LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/shreya-807/LeetCode-/tree/master/0766-toeplitz-matrix) |
+| [1260-shift-2d-grid](https://github.com/shreya-807/LeetCode-/tree/master/1260-shift-2d-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,6 +165,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0054-spiral-matrix](https://github.com/shreya-807/LeetCode-/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/shreya-807/LeetCode-/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/shreya-807/LeetCode-/tree/master/0844-backspace-string-compare) |
+| [1260-shift-2d-grid](https://github.com/shreya-807/LeetCode-/tree/master/1260-shift-2d-grid) |
 ## Enumeration
 |  |
 | ------- |
