@@ -63,6 +63,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0240-search-a-2d-matrix-ii](https://github.com/shreya-807/LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shreya-807/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/shreya-807/LeetCode-/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/shreya-807/LeetCode-/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/shreya-807/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0766-toeplitz-matrix](https://github.com/shreya-807/LeetCode-/tree/master/0766-toeplitz-matrix) |
 | [0806-number-of-lines-to-write-string](https://github.com/shreya-807/LeetCode-/tree/master/0806-number-of-lines-to-write-string) |
@@ -199,6 +200,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/shreya-807/LeetCode-/tree/master/0338-counting-bits) |
+| [0494-target-sum](https://github.com/shreya-807/LeetCode-/tree/master/0494-target-sum) |
 ## Geometry
 |  |
 | ------- |
@@ -207,4 +209,16 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/shreya-807/LeetCode-/tree/master/0944-delete-columns-to-make-sorted) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/shreya-807/LeetCode-/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/shreya-807/LeetCode-/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/shreya-807/LeetCode-/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
