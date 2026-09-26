@@ -82,6 +82,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/shreya-807/LeetCode-/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shreya-807/LeetCode-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/shreya-807/LeetCode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/shreya-807/LeetCode-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/shreya-807/LeetCode-/tree/master/3731-find-missing-elements) |
 | [3833-count-dominant-indices](https://github.com/shreya-807/LeetCode-/tree/master/3833-count-dominant-indices) |
 | [3861-minimum-capacity-box](https://github.com/shreya-807/LeetCode-/tree/master/3861-minimum-capacity-box) |
@@ -106,6 +107,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0217-contains-duplicate](https://github.com/shreya-807/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/shreya-807/LeetCode-/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/shreya-807/LeetCode-/tree/master/0496-next-greater-element-i) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/shreya-807/LeetCode-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/shreya-807/LeetCode-/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -228,4 +230,8 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/shreya-807/LeetCode-/tree/master/0494-target-sum) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/shreya-807/LeetCode-/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
