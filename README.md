@@ -72,6 +72,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [1260-shift-2d-grid](https://github.com/shreya-807/LeetCode-/tree/master/1260-shift-2d-grid) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shreya-807/LeetCode-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreya-807/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/shreya-807/LeetCode-/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shreya-807/LeetCode-/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shreya-807/LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/shreya-807/LeetCode-/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -88,6 +89,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0217-contains-duplicate](https://github.com/shreya-807/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/shreya-807/LeetCode-/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreya-807/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/shreya-807/LeetCode-/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shreya-807/LeetCode-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3731-find-missing-elements](https://github.com/shreya-807/LeetCode-/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
