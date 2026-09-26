@@ -87,6 +87,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [3833-count-dominant-indices](https://github.com/shreya-807/LeetCode-/tree/master/3833-count-dominant-indices) |
 | [3861-minimum-capacity-box](https://github.com/shreya-807/LeetCode-/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shreya-807/LeetCode-/tree/master/3875-construct-uniform-parity-array-i) |
+| [3978-unique-middle-element](https://github.com/shreya-807/LeetCode-/tree/master/3978-unique-middle-element) |
 ## Sorting
 |  |
 | ------- |
@@ -234,4 +235,5 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shreya-807/LeetCode-/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3978-unique-middle-element](https://github.com/shreya-807/LeetCode-/tree/master/3978-unique-middle-element) |
 <!---LeetCode Topics End-->
