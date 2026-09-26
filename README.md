@@ -111,6 +111,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0258-add-digits](https://github.com/shreya-807/LeetCode-/tree/master/0258-add-digits) |
 | [0836-rectangle-overlap](https://github.com/shreya-807/LeetCode-/tree/master/0836-rectangle-overlap) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shreya-807/LeetCode-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [2119-a-number-after-a-double-reversal](https://github.com/shreya-807/LeetCode-/tree/master/2119-a-number-after-a-double-reversal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreya-807/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shreya-807/LeetCode-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shreya-807/LeetCode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
