@@ -47,6 +47,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shreya-807/LeetCode-/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/shreya-807/LeetCode-/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/shreya-807/LeetCode-/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shreya-807/LeetCode-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreya-807/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/shreya-807/LeetCode-/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
@@ -79,6 +80,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [2255-count-prefixes-of-a-given-string](https://github.com/shreya-807/LeetCode-/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shreya-807/LeetCode-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/shreya-807/LeetCode-/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shreya-807/LeetCode-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/shreya-807/LeetCode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3731-find-missing-elements](https://github.com/shreya-807/LeetCode-/tree/master/3731-find-missing-elements) |
 | [3833-count-dominant-indices](https://github.com/shreya-807/LeetCode-/tree/master/3833-count-dominant-indices) |
