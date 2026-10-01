@@ -117,6 +117,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | ------- |
 | [0050-powx-n](https://github.com/shreya-807/LeetCode-/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/shreya-807/LeetCode-/tree/master/0258-add-digits) |
+| [0509-fibonacci-number](https://github.com/shreya-807/LeetCode-/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/shreya-807/LeetCode-/tree/master/0836-rectangle-overlap) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shreya-807/LeetCode-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2119-a-number-after-a-double-reversal](https://github.com/shreya-807/LeetCode-/tree/master/2119-a-number-after-a-double-reversal) |
@@ -129,6 +130,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shreya-807/LeetCode-/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/shreya-807/LeetCode-/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -213,6 +215,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | ------- |
 | [0338-counting-bits](https://github.com/shreya-807/LeetCode-/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/shreya-807/LeetCode-/tree/master/0494-target-sum) |
+| [0509-fibonacci-number](https://github.com/shreya-807/LeetCode-/tree/master/0509-fibonacci-number) |
 ## Geometry
 |  |
 | ------- |
@@ -243,4 +246,8 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | ------- |
 | [0020-valid-parentheses](https://github.com/shreya-807/LeetCode-/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreya-807/LeetCode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shreya-807/LeetCode-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
