@@ -2,8 +2,9 @@ class Solution {
     public int[] decimalRepresentation(int n) {
         int count = 10;
         ArrayList<Integer> list = new ArrayList<>();
-         if (n % 10 != 0)
-        {list.add(n % 10);}
+        if (n % 10 != 0) {
+            list.add(n % 10);
+        }
         n /= 10;
         while (n > 0) {
             if (n % 10 != 0) {
@@ -17,7 +18,11 @@ class Solution {
 
         }
         Collections.reverse(list);
-      int[] array = list.stream().mapToInt(Integer::intValue).toArray();
+        int[] array = new int[list.size()];
+        for (int i = 0; i < list.size(); i++) {
+            array[i] = list.get(i);
+        }
+        //  int[] array = list.stream().mapToInt(Integer::intValue).toArray();
         return array;
     }
 }
