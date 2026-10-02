@@ -22,7 +22,6 @@ class Solution {
         for (int i = 0; i < list.size(); i++) {
             array[i] = list.get(i);
         }
-        //  int[] array = list.stream().mapToInt(Integer::intValue).toArray();
         return array;
     }
 }
