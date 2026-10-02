@@ -75,6 +75,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [1260-shift-2d-grid](https://github.com/shreya-807/LeetCode-/tree/master/1260-shift-2d-grid) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shreya-807/LeetCode-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shreya-807/LeetCode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1389-create-target-array-in-the-given-order](https://github.com/shreya-807/LeetCode-/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreya-807/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/shreya-807/LeetCode-/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shreya-807/LeetCode-/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -186,6 +187,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0258-add-digits](https://github.com/shreya-807/LeetCode-/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/shreya-807/LeetCode-/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/shreya-807/LeetCode-/tree/master/1260-shift-2d-grid) |
+| [1389-create-target-array-in-the-given-order](https://github.com/shreya-807/LeetCode-/tree/master/1389-create-target-array-in-the-given-order) |
 | [3498-reverse-degree-of-a-string](https://github.com/shreya-807/LeetCode-/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
