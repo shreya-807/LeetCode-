@@ -87,6 +87,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shreya-807/LeetCode-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/shreya-807/LeetCode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shreya-807/LeetCode-/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/shreya-807/LeetCode-/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3731-find-missing-elements](https://github.com/shreya-807/LeetCode-/tree/master/3731-find-missing-elements) |
 | [3833-count-dominant-indices](https://github.com/shreya-807/LeetCode-/tree/master/3833-count-dominant-indices) |
 | [3861-minimum-capacity-box](https://github.com/shreya-807/LeetCode-/tree/master/3861-minimum-capacity-box) |
@@ -114,6 +115,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0409-longest-palindrome](https://github.com/shreya-807/LeetCode-/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/shreya-807/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shreya-807/LeetCode-/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/shreya-807/LeetCode-/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3731-find-missing-elements](https://github.com/shreya-807/LeetCode-/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
