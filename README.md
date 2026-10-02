@@ -88,6 +88,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/shreya-807/LeetCode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shreya-807/LeetCode-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/shreya-807/LeetCode-/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
+| [3697-compute-decimal-representation](https://github.com/shreya-807/LeetCode-/tree/master/3697-compute-decimal-representation) |
 | [3731-find-missing-elements](https://github.com/shreya-807/LeetCode-/tree/master/3731-find-missing-elements) |
 | [3833-count-dominant-indices](https://github.com/shreya-807/LeetCode-/tree/master/3833-count-dominant-indices) |
 | [3861-minimum-capacity-box](https://github.com/shreya-807/LeetCode-/tree/master/3861-minimum-capacity-box) |
@@ -129,6 +130,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreya-807/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shreya-807/LeetCode-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shreya-807/LeetCode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3697-compute-decimal-representation](https://github.com/shreya-807/LeetCode-/tree/master/3697-compute-decimal-representation) |
 | [3870-count-commas-in-range](https://github.com/shreya-807/LeetCode-/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shreya-807/LeetCode-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
