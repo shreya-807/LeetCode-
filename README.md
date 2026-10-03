@@ -42,6 +42,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0844-backspace-string-compare](https://github.com/shreya-807/LeetCode-/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/shreya-807/LeetCode-/tree/master/0925-long-pressed-name) |
 | [0944-delete-columns-to-make-sorted](https://github.com/shreya-807/LeetCode-/tree/master/0944-delete-columns-to-make-sorted) |
+| [1408-string-matching-in-an-array](https://github.com/shreya-807/LeetCode-/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shreya-807/LeetCode-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreya-807/LeetCode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/shreya-807/LeetCode-/tree/master/1768-merge-strings-alternately) |
@@ -76,6 +77,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shreya-807/LeetCode-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shreya-807/LeetCode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shreya-807/LeetCode-/tree/master/1389-create-target-array-in-the-given-order) |
+| [1408-string-matching-in-an-array](https://github.com/shreya-807/LeetCode-/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreya-807/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/shreya-807/LeetCode-/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shreya-807/LeetCode-/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -214,6 +216,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 ## String Matching
 |  |
 | ------- |
+| [1408-string-matching-in-an-array](https://github.com/shreya-807/LeetCode-/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shreya-807/LeetCode-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/shreya-807/LeetCode-/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Monotonic Stack
