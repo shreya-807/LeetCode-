@@ -72,6 +72,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0766-toeplitz-matrix](https://github.com/shreya-807/LeetCode-/tree/master/0766-toeplitz-matrix) |
 | [0806-number-of-lines-to-write-string](https://github.com/shreya-807/LeetCode-/tree/master/0806-number-of-lines-to-write-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/shreya-807/LeetCode-/tree/master/0944-delete-columns-to-make-sorted) |
+| [1043-partition-array-for-maximum-sum](https://github.com/shreya-807/LeetCode-/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/shreya-807/LeetCode-/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/shreya-807/LeetCode-/tree/master/1260-shift-2d-grid) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shreya-807/LeetCode-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -229,6 +230,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0338-counting-bits](https://github.com/shreya-807/LeetCode-/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/shreya-807/LeetCode-/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/shreya-807/LeetCode-/tree/master/0509-fibonacci-number) |
+| [1043-partition-array-for-maximum-sum](https://github.com/shreya-807/LeetCode-/tree/master/1043-partition-array-for-maximum-sum) |
 ## Geometry
 |  |
 | ------- |
