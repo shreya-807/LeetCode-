@@ -128,6 +128,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0258-add-digits](https://github.com/shreya-807/LeetCode-/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/shreya-807/LeetCode-/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/shreya-807/LeetCode-/tree/master/0836-rectangle-overlap) |
+| [1137-n-th-tribonacci-number](https://github.com/shreya-807/LeetCode-/tree/master/1137-n-th-tribonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shreya-807/LeetCode-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2119-a-number-after-a-double-reversal](https://github.com/shreya-807/LeetCode-/tree/master/2119-a-number-after-a-double-reversal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreya-807/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -231,6 +232,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0494-target-sum](https://github.com/shreya-807/LeetCode-/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/shreya-807/LeetCode-/tree/master/0509-fibonacci-number) |
 | [1043-partition-array-for-maximum-sum](https://github.com/shreya-807/LeetCode-/tree/master/1043-partition-array-for-maximum-sum) |
+| [1137-n-th-tribonacci-number](https://github.com/shreya-807/LeetCode-/tree/master/1137-n-th-tribonacci-number) |
 ## Geometry
 |  |
 | ------- |
@@ -265,4 +267,5 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shreya-807/LeetCode-/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/shreya-807/LeetCode-/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
