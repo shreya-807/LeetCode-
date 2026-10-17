@@ -80,6 +80,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [1389-create-target-array-in-the-given-order](https://github.com/shreya-807/LeetCode-/tree/master/1389-create-target-array-in-the-given-order) |
 | [1408-string-matching-in-an-array](https://github.com/shreya-807/LeetCode-/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreya-807/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shreya-807/LeetCode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/shreya-807/LeetCode-/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shreya-807/LeetCode-/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shreya-807/LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -237,6 +238,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0509-fibonacci-number](https://github.com/shreya-807/LeetCode-/tree/master/0509-fibonacci-number) |
 | [1043-partition-array-for-maximum-sum](https://github.com/shreya-807/LeetCode-/tree/master/1043-partition-array-for-maximum-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/shreya-807/LeetCode-/tree/master/1137-n-th-tribonacci-number) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shreya-807/LeetCode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Geometry
 |  |
 | ------- |
@@ -284,4 +286,8 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/shreya-807/LeetCode-/tree/master/2523-closest-prime-numbers-in-range) |
+## Sliding Window
+|  |
+| ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shreya-807/LeetCode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
