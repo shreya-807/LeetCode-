@@ -17,8 +17,8 @@ class Solution {
                 c.add(keysPressed.charAt(i));
             }
         }
-        if (c.size() == 1)
-            return c.get(0);
+        // if (c.size() == 1)
+        //     return c.get(0);
         if (c.size() == 0)
             return keysPressed.charAt(0);
         char largest = c.get(0);
