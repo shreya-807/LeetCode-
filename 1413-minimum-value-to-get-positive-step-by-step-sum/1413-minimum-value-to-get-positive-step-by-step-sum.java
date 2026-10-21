@@ -13,8 +13,9 @@ class Solution {
                 }
             }
             if (i == nums.length) {
-                if (ans == 0)
+                if (ans == 0) {
                     return 1;
+                }
                 return ans;
             }
             ans++;
