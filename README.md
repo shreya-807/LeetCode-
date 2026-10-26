@@ -132,6 +132,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shreya-807/LeetCode-/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/shreya-807/LeetCode-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shreya-807/LeetCode-/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/shreya-807/LeetCode-/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/shreya-807/LeetCode-/tree/master/0509-fibonacci-number) |
@@ -240,6 +241,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shreya-807/LeetCode-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shreya-807/LeetCode-/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/shreya-807/LeetCode-/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/shreya-807/LeetCode-/tree/master/0494-target-sum) |
@@ -305,4 +307,8 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/shreya-807/LeetCode-/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shreya-807/LeetCode-/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
