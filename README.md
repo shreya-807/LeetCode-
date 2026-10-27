@@ -64,6 +64,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shreya-807/LeetCode-/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/shreya-807/LeetCode-/tree/master/0063-unique-paths-ii) |
 | [0217-contains-duplicate](https://github.com/shreya-807/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreya-807/LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shreya-807/LeetCode-/tree/master/0287-find-the-duplicate-number) |
@@ -176,6 +177,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shreya-807/LeetCode-/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/shreya-807/LeetCode-/tree/master/0063-unique-paths-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreya-807/LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/shreya-807/LeetCode-/tree/master/0766-toeplitz-matrix) |
 | [1260-shift-2d-grid](https://github.com/shreya-807/LeetCode-/tree/master/1260-shift-2d-grid) |
@@ -242,6 +244,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shreya-807/LeetCode-/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/shreya-807/LeetCode-/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/shreya-807/LeetCode-/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/shreya-807/LeetCode-/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/shreya-807/LeetCode-/tree/master/0494-target-sum) |
