@@ -9,7 +9,11 @@ class Solution {
         }
         if (i == r - 1 && j == c - 1) //reached
         {
-            return Math.max(1, (1 - dungeon[i][j]));
+            //   return Math.max(1, (1 - dungeon[i][j]));
+            if (dungeon[i][j] < 0)
+                return 1 + Math.abs(dungeon[i][j]);
+            else
+                return 1;
         }
         if (dp[i][j] != -10001) {
             return dp[i][j];
