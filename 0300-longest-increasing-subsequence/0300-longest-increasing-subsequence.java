@@ -3,7 +3,7 @@ class Solution {
         int select = 0;
         if (i == nums.length)
             return 0;
-        if (dp[i][prev + 1] != -100000)
+        if (dp[i][prev   + 1] != -100000)
             return dp[i][prev+1];
 
         int skip = fn(i + 1, nums, prev, dp);
