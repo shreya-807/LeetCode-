@@ -38,6 +38,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0058-length-of-last-word](https://github.com/shreya-807/LeetCode-/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/shreya-807/LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0409-longest-palindrome](https://github.com/shreya-807/LeetCode-/tree/master/0409-longest-palindrome) |
+| [0791-custom-sort-string](https://github.com/shreya-807/LeetCode-/tree/master/0791-custom-sort-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/shreya-807/LeetCode-/tree/master/0806-number-of-lines-to-write-string) |
 | [0844-backspace-string-compare](https://github.com/shreya-807/LeetCode-/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/shreya-807/LeetCode-/tree/master/0925-long-pressed-name) |
@@ -113,6 +114,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | ------- |
 | [0217-contains-duplicate](https://github.com/shreya-807/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/shreya-807/LeetCode-/tree/master/0455-assign-cookies) |
+| [0791-custom-sort-string](https://github.com/shreya-807/LeetCode-/tree/master/0791-custom-sort-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shreya-807/LeetCode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreya-807/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/shreya-807/LeetCode-/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -129,6 +131,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0217-contains-duplicate](https://github.com/shreya-807/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/shreya-807/LeetCode-/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/shreya-807/LeetCode-/tree/master/0496-next-greater-element-i) |
+| [0791-custom-sort-string](https://github.com/shreya-807/LeetCode-/tree/master/0791-custom-sort-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shreya-807/LeetCode-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/shreya-807/LeetCode-/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3731-find-missing-elements](https://github.com/shreya-807/LeetCode-/tree/master/3731-find-missing-elements) |
