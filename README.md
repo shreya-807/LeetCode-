@@ -73,6 +73,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0240-search-a-2d-matrix-ii](https://github.com/shreya-807/LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shreya-807/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shreya-807/LeetCode-/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/shreya-807/LeetCode-/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/shreya-807/LeetCode-/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/shreya-807/LeetCode-/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/shreya-807/LeetCode-/tree/master/0496-next-greater-element-i) |
@@ -262,6 +263,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0213-house-robber-ii](https://github.com/shreya-807/LeetCode-/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shreya-807/LeetCode-/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/shreya-807/LeetCode-/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/shreya-807/LeetCode-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shreya-807/LeetCode-/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/shreya-807/LeetCode-/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/shreya-807/LeetCode-/tree/master/0746-min-cost-climbing-stairs) |
@@ -286,10 +288,12 @@ This repo is designed to help learners, interview-prep candidates, and developer
 ## Knapsack Problem
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/shreya-807/LeetCode-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shreya-807/LeetCode-/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/shreya-807/LeetCode-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shreya-807/LeetCode-/tree/master/0494-target-sum) |
 ## Counting
 |  |
