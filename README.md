@@ -66,6 +66,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | ------- |
 | [0054-spiral-matrix](https://github.com/shreya-807/LeetCode-/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/shreya-807/LeetCode-/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/shreya-807/LeetCode-/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/shreya-807/LeetCode-/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/shreya-807/LeetCode-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shreya-807/LeetCode-/tree/master/0213-house-robber-ii) |
@@ -188,6 +189,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | ------- |
 | [0054-spiral-matrix](https://github.com/shreya-807/LeetCode-/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/shreya-807/LeetCode-/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/shreya-807/LeetCode-/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/shreya-807/LeetCode-/tree/master/0174-dungeon-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreya-807/LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/shreya-807/LeetCode-/tree/master/0766-toeplitz-matrix) |
@@ -257,6 +259,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | ------- |
 | [0062-unique-paths](https://github.com/shreya-807/LeetCode-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shreya-807/LeetCode-/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/shreya-807/LeetCode-/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shreya-807/LeetCode-/tree/master/0070-climbing-stairs) |
 | [0174-dungeon-game](https://github.com/shreya-807/LeetCode-/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/shreya-807/LeetCode-/tree/master/0198-house-robber) |
