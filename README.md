@@ -53,6 +53,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [2255-count-prefixes-of-a-given-string](https://github.com/shreya-807/LeetCode-/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shreya-807/LeetCode-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreya-807/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/shreya-807/LeetCode-/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3498-reverse-degree-of-a-string](https://github.com/shreya-807/LeetCode-/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -153,6 +154,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [2119-a-number-after-a-double-reversal](https://github.com/shreya-807/LeetCode-/tree/master/2119-a-number-after-a-double-reversal) |
 | [2523-closest-prime-numbers-in-range](https://github.com/shreya-807/LeetCode-/tree/master/2523-closest-prime-numbers-in-range) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreya-807/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/shreya-807/LeetCode-/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shreya-807/LeetCode-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shreya-807/LeetCode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3697-compute-decimal-representation](https://github.com/shreya-807/LeetCode-/tree/master/3697-compute-decimal-representation) |
