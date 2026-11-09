@@ -20,6 +20,6 @@ class Solution {
         for (int[] row : dp) {
             Arrays.fill(row, -1);
         }
-        return fn(grid, grid.length - 1, grid[0].length - 1, dp);
+        return fn(grid, grid.length - 1, grid[0].length - 1, dp);    
     }
 }
