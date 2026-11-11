@@ -110,6 +110,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/shreya-807/LeetCode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shreya-807/LeetCode-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/shreya-807/LeetCode-/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/shreya-807/LeetCode-/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3697-compute-decimal-representation](https://github.com/shreya-807/LeetCode-/tree/master/3697-compute-decimal-representation) |
 | [3731-find-missing-elements](https://github.com/shreya-807/LeetCode-/tree/master/3731-find-missing-elements) |
 | [3833-count-dominant-indices](https://github.com/shreya-807/LeetCode-/tree/master/3833-count-dominant-indices) |
@@ -172,6 +173,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | ------- |
 | [0050-powx-n](https://github.com/shreya-807/LeetCode-/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/shreya-807/LeetCode-/tree/master/0509-fibonacci-number) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/shreya-807/LeetCode-/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Greedy
 |  |
 | ------- |
@@ -223,6 +225,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0287-find-the-duplicate-number](https://github.com/shreya-807/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/shreya-807/LeetCode-/tree/master/0338-counting-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/shreya-807/LeetCode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/shreya-807/LeetCode-/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -238,6 +241,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shreya-807/LeetCode-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shreya-807/LeetCode-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/shreya-807/LeetCode-/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3833-count-dominant-indices](https://github.com/shreya-807/LeetCode-/tree/master/3833-count-dominant-indices) |
 ## Number Theory
 |  |
