@@ -109,6 +109,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shreya-807/LeetCode-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/shreya-807/LeetCode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shreya-807/LeetCode-/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shreya-807/LeetCode-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/shreya-807/LeetCode-/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/shreya-807/LeetCode-/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3697-compute-decimal-representation](https://github.com/shreya-807/LeetCode-/tree/master/3697-compute-decimal-representation) |
