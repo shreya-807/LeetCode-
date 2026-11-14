@@ -86,6 +86,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0806-number-of-lines-to-write-string](https://github.com/shreya-807/LeetCode-/tree/master/0806-number-of-lines-to-write-string) |
 | [0931-minimum-falling-path-sum](https://github.com/shreya-807/LeetCode-/tree/master/0931-minimum-falling-path-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/shreya-807/LeetCode-/tree/master/0944-delete-columns-to-make-sorted) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/shreya-807/LeetCode-/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/shreya-807/LeetCode-/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/shreya-807/LeetCode-/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/shreya-807/LeetCode-/tree/master/1260-shift-2d-grid) |
@@ -180,6 +181,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | ------- |
 | [0409-longest-palindrome](https://github.com/shreya-807/LeetCode-/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/shreya-807/LeetCode-/tree/master/0455-assign-cookies) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/shreya-807/LeetCode-/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shreya-807/LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shreya-807/LeetCode-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/shreya-807/LeetCode-/tree/master/2656-maximum-sum-with-exactly-k-elements) |
