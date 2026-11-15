@@ -49,6 +49,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreya-807/LeetCode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1629-slowest-key](https://github.com/shreya-807/LeetCode-/tree/master/1629-slowest-key) |
 | [1768-merge-strings-alternately](https://github.com/shreya-807/LeetCode-/tree/master/1768-merge-strings-alternately) |
+| [1796-second-largest-digit-in-a-string](https://github.com/shreya-807/LeetCode-/tree/master/1796-second-largest-digit-in-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/shreya-807/LeetCode-/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/shreya-807/LeetCode-/tree/master/1816-truncate-sentence) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shreya-807/LeetCode-/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -147,6 +148,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0409-longest-palindrome](https://github.com/shreya-807/LeetCode-/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/shreya-807/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0791-custom-sort-string](https://github.com/shreya-807/LeetCode-/tree/master/0791-custom-sort-string) |
+| [1796-second-largest-digit-in-a-string](https://github.com/shreya-807/LeetCode-/tree/master/1796-second-largest-digit-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shreya-807/LeetCode-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/shreya-807/LeetCode-/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3731-find-missing-elements](https://github.com/shreya-807/LeetCode-/tree/master/3731-find-missing-elements) |
