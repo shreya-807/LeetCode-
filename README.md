@@ -50,6 +50,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [1629-slowest-key](https://github.com/shreya-807/LeetCode-/tree/master/1629-slowest-key) |
 | [1768-merge-strings-alternately](https://github.com/shreya-807/LeetCode-/tree/master/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/shreya-807/LeetCode-/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1816-truncate-sentence](https://github.com/shreya-807/LeetCode-/tree/master/1816-truncate-sentence) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shreya-807/LeetCode-/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/shreya-807/LeetCode-/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/shreya-807/LeetCode-/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -99,6 +100,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shreya-807/LeetCode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/shreya-807/LeetCode-/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1629-slowest-key](https://github.com/shreya-807/LeetCode-/tree/master/1629-slowest-key) |
+| [1816-truncate-sentence](https://github.com/shreya-807/LeetCode-/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/shreya-807/LeetCode-/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shreya-807/LeetCode-/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shreya-807/LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
