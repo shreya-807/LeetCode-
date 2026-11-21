@@ -104,6 +104,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [1816-truncate-sentence](https://github.com/shreya-807/LeetCode-/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/shreya-807/LeetCode-/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shreya-807/LeetCode-/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/shreya-807/LeetCode-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shreya-807/LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/shreya-807/LeetCode-/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/shreya-807/LeetCode-/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -212,6 +213,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0766-toeplitz-matrix](https://github.com/shreya-807/LeetCode-/tree/master/0766-toeplitz-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/shreya-807/LeetCode-/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/shreya-807/LeetCode-/tree/master/1260-shift-2d-grid) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/shreya-807/LeetCode-/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -242,6 +244,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [1260-shift-2d-grid](https://github.com/shreya-807/LeetCode-/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shreya-807/LeetCode-/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/shreya-807/LeetCode-/tree/master/1929-concatenation-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/shreya-807/LeetCode-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/shreya-807/LeetCode-/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
