@@ -171,6 +171,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreya-807/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/shreya-807/LeetCode-/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shreya-807/LeetCode-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/shreya-807/LeetCode-/tree/master/3360-stone-removal-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shreya-807/LeetCode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3697-compute-decimal-representation](https://github.com/shreya-807/LeetCode-/tree/master/3697-compute-decimal-representation) |
 | [3870-count-commas-in-range](https://github.com/shreya-807/LeetCode-/tree/master/3870-count-commas-in-range) |
@@ -246,6 +247,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [1389-create-target-array-in-the-given-order](https://github.com/shreya-807/LeetCode-/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/shreya-807/LeetCode-/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/shreya-807/LeetCode-/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3360-stone-removal-game](https://github.com/shreya-807/LeetCode-/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/shreya-807/LeetCode-/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
