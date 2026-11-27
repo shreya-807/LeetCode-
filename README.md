@@ -167,6 +167,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0836-rectangle-overlap](https://github.com/shreya-807/LeetCode-/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/shreya-807/LeetCode-/tree/master/1137-n-th-tribonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shreya-807/LeetCode-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1323-maximum-69-number](https://github.com/shreya-807/LeetCode-/tree/master/1323-maximum-69-number) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/shreya-807/LeetCode-/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2119-a-number-after-a-double-reversal](https://github.com/shreya-807/LeetCode-/tree/master/2119-a-number-after-a-double-reversal) |
 | [2523-closest-prime-numbers-in-range](https://github.com/shreya-807/LeetCode-/tree/master/2523-closest-prime-numbers-in-range) |
@@ -191,6 +192,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0409-longest-palindrome](https://github.com/shreya-807/LeetCode-/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/shreya-807/LeetCode-/tree/master/0455-assign-cookies) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/shreya-807/LeetCode-/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1323-maximum-69-number](https://github.com/shreya-807/LeetCode-/tree/master/1323-maximum-69-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shreya-807/LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shreya-807/LeetCode-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/shreya-807/LeetCode-/tree/master/2656-maximum-sum-with-exactly-k-elements) |
