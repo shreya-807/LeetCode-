@@ -235,6 +235,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shreya-807/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/shreya-807/LeetCode-/tree/master/0338-counting-bits) |
+| [0476-number-complement](https://github.com/shreya-807/LeetCode-/tree/master/0476-number-complement) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/shreya-807/LeetCode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/shreya-807/LeetCode-/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Simulation
