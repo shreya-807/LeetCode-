@@ -39,6 +39,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0151-reverse-words-in-a-string](https://github.com/shreya-807/LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/shreya-807/LeetCode-/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/shreya-807/LeetCode-/tree/master/0409-longest-palindrome) |
+| [0771-jewels-and-stones](https://github.com/shreya-807/LeetCode-/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/shreya-807/LeetCode-/tree/master/0791-custom-sort-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/shreya-807/LeetCode-/tree/master/0806-number-of-lines-to-write-string) |
 | [0844-backspace-string-compare](https://github.com/shreya-807/LeetCode-/tree/master/0844-backspace-string-compare) |
@@ -149,6 +150,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0242-valid-anagram](https://github.com/shreya-807/LeetCode-/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/shreya-807/LeetCode-/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/shreya-807/LeetCode-/tree/master/0496-next-greater-element-i) |
+| [0771-jewels-and-stones](https://github.com/shreya-807/LeetCode-/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/shreya-807/LeetCode-/tree/master/0791-custom-sort-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/shreya-807/LeetCode-/tree/master/1796-second-largest-digit-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shreya-807/LeetCode-/tree/master/3005-count-elements-with-maximum-frequency) |
