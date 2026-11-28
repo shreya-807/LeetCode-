@@ -39,6 +39,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0151-reverse-words-in-a-string](https://github.com/shreya-807/LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/shreya-807/LeetCode-/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/shreya-807/LeetCode-/tree/master/0409-longest-palindrome) |
+| [0504-base-7](https://github.com/shreya-807/LeetCode-/tree/master/0504-base-7) |
 | [0771-jewels-and-stones](https://github.com/shreya-807/LeetCode-/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/shreya-807/LeetCode-/tree/master/0791-custom-sort-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/shreya-807/LeetCode-/tree/master/0806-number-of-lines-to-write-string) |
@@ -163,6 +164,7 @@ This repo is designed to help learners, interview-prep candidates, and developer
 | [0062-unique-paths](https://github.com/shreya-807/LeetCode-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shreya-807/LeetCode-/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/shreya-807/LeetCode-/tree/master/0258-add-digits) |
+| [0504-base-7](https://github.com/shreya-807/LeetCode-/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/shreya-807/LeetCode-/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/shreya-807/LeetCode-/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/shreya-807/LeetCode-/tree/master/1137-n-th-tribonacci-number) |
